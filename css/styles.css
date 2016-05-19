@@ -1,0 +1,29 @@
+ul#map {display: block; margin: 0; padding: 0; width: 1600px; height: 800px; background-image: url('../img/map2.gif');}
+ul#map li {display: block; padding: 0; position: absolute;}
+/*Definir a posição dos continente*/
+li#asa {margin-top: 51px; margin-left: 849px;}
+li#amn {margin-top: 0px; margin-left: 35px;}
+li#amc {margin-top: 319px; margin-left: 337px;}
+li#afr {margin-top: 260px; margin-left: 674px;}
+li#ams {margin-top: 396px; margin-left: 399px;}
+li#ocn {margin-top: 456px; margin-left: 1216px;}
+li#eur {margin-top: 50px; margin-left: 649px}
+
+ul#map li a {display: block; text-decoration: none; position: absolute;}
+/*Definir o tamanho do continente*/
+a#as {width: 723px; height: 482px;}
+a#an {width: 681px;height: 397px;}
+a#ac {width: 144px;height: 140px;}
+a#af {width:311px; height:399px;}
+a#am {width: 235px;height:355px;}
+a#oc {width: 290px;height:280px;}
+a#eu {width: 399px;height:264px;}
+/*Efeito houver */
+a#as:hover, a#as:active {background-image: url('../img/asia.gif');}
+a#an:hover, a#an:active {background-image: url('../img/america-do-norte.gif');}
+a#ac:hover, a#ac:active {background-image: url('../img/america-central.gif');}
+a#af:hover, a#af:active {background-image: url('../img/africa.gif');}
+a#am:hover, a#am:active {background-image: url('../img/america-do-sul.gif');}
+a#oc:hover, a#oc:active {background-image: url('../img/ocenia.gif');}
+a#eu:hover, a#eu:active {background-image: url('../img/europa.gif');}
+ul#map li a img {border: 0; width: inherit; height: inherit;}
