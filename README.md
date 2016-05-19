@@ -1,5 +1,5 @@
 #Mapa Continentes
-Foi baseado nesse exemplo abaixo, a diferença que usei HTML5 e CSS, para fazer o meu mapa. 
+Foi baseado no exemplo abaixo, a diferença que usei HTML5 e CSS, para fazer o meu mapa. 
 
 
 Mapa do Brasil mapeado em CSS ( https://github.com/insign/mapa_Brasil_CSS )
